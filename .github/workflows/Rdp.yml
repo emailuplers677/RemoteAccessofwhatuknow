@@ -1,10 +1,10 @@
-name: Playit RDP Tunnel
+name: Irfan Rdp
 
 on:
   workflow_dispatch:
 
 jobs:
-  setup-rdp-tunnel:
+  irfan-rdp-tunnel:
     runs-on: windows-latest
 
     steps:
